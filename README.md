@@ -1,1 +1,2 @@
-# odin-recipes
+- foundation project of odin project
+- to create a recipe page with html
